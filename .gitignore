@@ -1,0 +1,11 @@
+#檔案名稱 .gitignore
+
+#忽略 sample檔
+*_sample.ipynb
+
+#忽略 不需上傳的資料夾
+example/*.*
+.ipynb_checkpoints/*.*
+
+
+
