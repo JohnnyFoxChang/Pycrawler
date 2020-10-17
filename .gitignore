@@ -5,6 +5,7 @@
 
 #忽略 不需上傳的資料夾
 example/*.*
+example/__MACOSX/*.*
 .ipynb_checkpoints/*.*
 
 
